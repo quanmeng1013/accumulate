@@ -42,6 +42,8 @@
     </dependencies>
     <modules>
         <module>xsstream</module>
+        <module>core-java-modules</module>
+        <module>spring-boot-modules</module>
     </modules>
 
 </project>
