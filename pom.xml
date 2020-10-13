@@ -10,7 +10,7 @@
 
     <packaging>pom</packaging>
     <properties>
-        <junit.version>4.12</junit.version>
+        <junit.version>4.13.1</junit.version>
         <junit-jupiter.version>5.2.0</junit-jupiter.version>
     </properties>
     <dependencies>
