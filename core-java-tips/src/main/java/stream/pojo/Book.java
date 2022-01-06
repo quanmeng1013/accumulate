@@ -1,4 +1,4 @@
-package com.fierceq.stream.pojo;
+package stream.pojo;
 
 public class Book {
     private String name;

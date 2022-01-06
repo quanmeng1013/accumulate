@@ -1,4 +1,4 @@
-package com.fierceq.stream.tutorial;
+package stream.tutorial;
 
 import java.util.Arrays;
 import java.util.List;

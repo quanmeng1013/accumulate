@@ -1,6 +1,7 @@
-package com.fierceq.stream.tutorial;
+package stream.tutorial;
 
-import com.fierceq.utils.CommonUtils;
+
+import utils.CommonUtils;
 
 import java.util.Arrays;
 import java.util.List;

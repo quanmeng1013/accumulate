@@ -1,4 +1,4 @@
-package com.fierceq.utils;
+package utils;
 
 import java.util.regex.Pattern;
 

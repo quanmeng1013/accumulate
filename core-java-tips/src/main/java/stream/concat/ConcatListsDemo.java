@@ -1,6 +1,6 @@
-package com.fierceq.stream.concat;
+package stream.concat;
 
-import com.fierceq.stream.pojo.Book;
+import stream.pojo.Book;
 
 import java.util.ArrayList;
 import java.util.List;

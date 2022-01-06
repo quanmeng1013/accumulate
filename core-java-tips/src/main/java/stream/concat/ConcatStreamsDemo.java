@@ -1,4 +1,4 @@
-package com.fierceq.stream.concat;
+package stream.concat;
 
 import java.util.stream.Stream;
 
